@@ -1366,12 +1366,22 @@ account too.
     play around with my site for a bit so im more confortable.
 
 *** PAT: Making adjustments to pgannon.github 			      :story:
-   
+    
+    CLOCK: [2015-07-14 Tue 19:37]--[2015-07-14 Tue 20:49] =>  1:12
+    CLOCK: [2015-07-14 Tue 17:44]--[2015-07-14 Tue 18:36] =>  0:52
     CLOCK: [2015-07-14 Tue 15:12]--[2015-07-14 Tue 17:19] =>  2:07
-
+    
     Looked through file in bootstrap template, found out where
     and how to change inamges on the website. Also learned how to
     link buttons on the webpage to other sites e.g Twitter.
+
+    So I managed to link one repo to another where people will be
+    able to see and play gamesive made in flash.
+
+    So i got a .swf file to work through a combination of 
+    github page and  bootstrap.
+
+    can you dig it?
     
 ** Deprecated
 *** CANCELLED Injection framework                                      :epic:
