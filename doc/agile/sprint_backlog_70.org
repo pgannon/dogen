@@ -1365,7 +1365,7 @@ account too.
     github, also cleaned up pgannon.github.com. I think im going to
     play around with my site for a bit so im more confortable.
 
-*** PAT: Made adjustments to pgannon.github                           :story:
+*** PAT: Making adjustments to pgannon.github 			      :story:
    
     CLOCK: [2015-07-14 Tue 15:12]--[2015-07-14 Tue 17:19] =>  2:07
 
