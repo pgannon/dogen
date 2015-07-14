@@ -1365,7 +1365,14 @@ account too.
     github, also cleaned up pgannon.github.com. I think im going to
     play around with my site for a bit so im more confortable.
 
+*** PAT: Made adjustments to pgannon.github                           :story:
+   
+    CLOCK: [2015-07-14 Tue 15:12]--[2015-07-14 Tue 17:19] =>  2:07
 
+    Looked through file in bootstrap template, found out where
+    and how to change inamges on the website. Also learned how to
+    link buttons on the webpage to other sites e.g Twitter.
+    
 ** Deprecated
 *** CANCELLED Injection framework                                      :epic:
     CLOSED: [2015-07-09 Thu 21:26]
