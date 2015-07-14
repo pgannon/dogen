@@ -1216,7 +1216,7 @@ We still have a couple of skeleton interfaces:
 - concepts
 
 *** Factor all =housekeeping_required= methods into one               :story:
-
+    
 In knit model we seem to have several of these: =housekeeping_required=.
 
 *** Remove unused features                                             :epic:
@@ -1354,6 +1354,17 @@ facet depends on the hash facet if the user decides to add a
 =std::unordered_map= of a user defined type to another user defined
 type. We need to make sure we take these run-time dependencies into
 account too.
+
+
+
+*** PAT: Familiarizing myself with github 			      :story:
+    
+    CLOCK: [2015-07-14 Tue 12:52]--[2015-07-14 Tue 14:08] =>  1:16
+    
+    Managed to get a new twitter bootstrap template working with
+    github, also cleaned up pgannon.github.com. I think im going to
+    play around with my site for a bit so im more confortable.
+
 
 ** Deprecated
 *** CANCELLED Injection framework                                      :epic:
