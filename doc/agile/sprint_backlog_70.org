@@ -1415,7 +1415,7 @@ account too.
      -added goodle plus text
      -added github and google plus links
     
-*** PAT: Made changes to Games repo                                   :story
+*** PAT: Made changes to Games repo                                   :story:
 
     CLOCK: [2015-07-15 Wed 16:40]--[2015-07-15 Wed 18:00] =>  1:20
 
@@ -1430,7 +1430,12 @@ account too.
     -created and used SCA image
     -changed various titils on page
     
+*** PAT: Created first designs for Dogen T-shirt logo 		      :story:
 
+    CLOCK: [2015-07-15 Wed 22:06]--[2015-07-15 Wed 23:50] =>  1:44
+
+    -Made 2 design, front and back
+    
 
 ** Deprecated
 *** CANCELLED Injection framework                                      :epic:
