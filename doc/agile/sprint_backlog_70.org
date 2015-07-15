@@ -1295,7 +1295,7 @@ At present some knitting options are specific to a frontend
 to represent options on a per fronend basis.
 
 *** Remove unnecessary properties from model                          :story:
-
+    
 The model should be just dumb container of types. We have a few legacy
 properties left behind from the days where the model was also used in
 the transformation process. Remove all the concepts from the model
@@ -1357,6 +1357,13 @@ account too.
 
 
 
+*** PAT: Reintroduced to github and discussed work with tio           :story:
+ 
+    CLOCK: [2015-07-12 Mon 15:00]--[2015-07-12 Mon 16:30] => 1:30
+
+    sat down with tio, he helped me get started and pointed
+    me in the right direction.
+        
 *** PAT: Familiarizing myself with github 			      :story:
     
     CLOCK: [2015-07-14 Tue 12:52]--[2015-07-14 Tue 14:08] =>  1:16
@@ -1383,6 +1390,48 @@ account too.
 
     can you dig it?
     
+*** PAT: Made changes on pgannon.gihub.com                            :story:
+
+    CLOCK: [2015-07-15 Wed 01:11]--[2015-07-15 Wed 03:22] =>  2:06
+
+    -created icons for homepage
+    -hunted down location for icons to replace
+    -hunted down location of orange rectangle
+    -change various colours on the site to dark red
+
+     CLOCK: [2015-07-15 Wed 13:16]--[2015-07-15 Wed 14:13] =>  0:57
+     
+     -changed text undersmall icons
+     -added "what is this place" header and body in about section
+     -changed various titles around main page
+
+     CLOCK: [2015-07-15 Wed 14:32]--[2015-07-15 Wed 14:59] =>  0:27
+     
+     -created github image
+     -replace portfolio 2 image
+     -added github text
+     -created google plus image
+     -replace portfolio 3 image 
+     -added goodle plus text
+     -added github and google plus links
+    
+*** PAT: Made changes to Games repo                                   :story
+
+    CLOCK: [2015-07-15 Wed 16:40]--[2015-07-15 Wed 18:00] =>  1:20
+
+    -changed various titles on page
+    -removed navbar
+    -changed cavegame info
+    -linked 2playerShootout to image and button
+    -created 2playerShootout image
+    -changed stock images for 2playerShootout image
+    -added Super Cronos Adventure(SCA) /games
+    -removed stock images from project 3
+    -created and used SCA image
+    -changed various titils on page
+    
+
+
 ** Deprecated
 *** CANCELLED Injection framework                                      :epic:
     CLOSED: [2015-07-09 Thu 21:26]
