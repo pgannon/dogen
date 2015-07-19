@@ -1434,8 +1434,11 @@ account too.
 
     CLOCK: [2015-07-15 Wed 22:06]--[2015-07-15 Wed 23:50] =>  1:44
 
-    -Made 2 design, front and back
+    -Made 2 designs, front and back
     
+*** PAT: Created second set of dogen tshirt designs                   :story:
+    CLOCK: [2015-07-16 Thu 14:49]--[2015-07-16 Thu 16:05] =>  1:16
+
 
 ** Deprecated
 *** CANCELLED Injection framework                                      :epic:
